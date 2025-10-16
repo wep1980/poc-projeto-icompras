@@ -7,7 +7,7 @@
 [POSTMAN]:https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
 [DOCKER]:https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
 
-<h1 align="center" style="font-weight: bold;">Projeto ICompras 💻</h1>
+<h1 align="center" style="font-weight: bold;">POC Projeto ICompras 💻</h1>
 
 ![license][LICENSE__BADGE]
 ![postgres][POSTGRES]
@@ -38,7 +38,7 @@
 - **Java 17+**
 - **Maven 3.9+**
 - **Docker**
-- **Postman**
+- **HTTP Client (Postman)**
 
 ---
 
