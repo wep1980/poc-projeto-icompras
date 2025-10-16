@@ -1,0 +1,18 @@
+/arquivos do curso/
+**/arquivos do curso/
+
+/**/.idea/
+
+/icompras-servicos/bucket/docs/**
+!/icompras-servicos/bucket/docs/.gitkeep
+
+# Extras recomendados (opcional)
+**/target/
+!.mvn/wrapper/maven-wrapper.jar
+*.log
+*.tmp
+*.iml
+.project
+.classpath
+.settings/
+.vscode/
